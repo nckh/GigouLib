@@ -1,0 +1,6 @@
+use_frameworks!
+target 'GigouLib_Tests' do
+  pod 'GigouLib', :path => '../'
+  
+  
+end

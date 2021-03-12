@@ -1,3 +1,3 @@
 public class Tutu {
-  public static let description = "TUTU! 0.2"
+  public static let description = "TUTU! 0.2.1"
 }

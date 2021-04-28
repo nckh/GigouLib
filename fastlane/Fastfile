@@ -16,7 +16,7 @@ platform :ios do
 
   desc "Deploy Podspecs to CocoaPods Trunk"
   lane :deploy do
-    tag = "0.2.4"
+    tag = "0.2.5"
 
     add_git_tag(
       tag: tag

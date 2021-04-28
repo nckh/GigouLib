@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'GigouLib'
-  s.version          = '0.2.4'
+  s.version          = '0.2.5'
   s.summary          = 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua.'
   s.description      = 'Ut enim ad minim veniam,

@@ -1,3 +1,3 @@
 public class Gigou {
-  public static let description = "Gigouuuu 0.2.3"
+  public static let description = "Gigouuuu 0.2.4"
 }
